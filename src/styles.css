@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+label,
+input {
+  display: block;
+}
+
+.formField {
+  display: inline-block;
+}
